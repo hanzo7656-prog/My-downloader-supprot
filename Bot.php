@@ -1,6 +1,6 @@
 <?php
-$token = "YOUR_BALE_TOKEN";
-$chat_id = "YOUR_CHAT_ID";
+$token = "1824531903:YAOonf6TvZvtnUUQXSLLI4Yg_sMlgDTzlFs";
+$chat_id = "1221618094";
 
 // دریافت لینک
 $url = $_GET['url'] ?? $_POST['url'] ?? '';
